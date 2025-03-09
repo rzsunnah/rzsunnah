@@ -12,7 +12,7 @@
 - 🎓 Completed Masters in **Information Communication and Technology** at **Bangladesh University of Professionals**
 - 💼 Currently working as a **Cloud Architect** at **Fusion Infotech Ltd.**
 - 🌱 Passionate about **Cloud, New Technologies**  
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/rubaiya-zahin-sunnah/) | [Email](maitol:zahinsunnah@gmail.com)
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/rubaiya-zahin-sunnah/) | [Email](maito:zahinsunnah@gmail.com)
 
 ## 📊 GitHub Stats  
 <img src="https://github-readme-stats.vercel.app/api?username=rzsunnah&show_icons=true&theme=dark" alt="GitHub Stats" />  
@@ -20,8 +20,17 @@
 
 ## 🚀 Skills  
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=oracle,huawei,azure,redhat linux,suse linux, oracle EBS, SAP Business One, Hana Database " alt="Skills" />
+  <img src="https://skillicons.dev/icons?i=oracle,azure,linux" alt="Skills" />
 </p>
+
+### Additional Skills:
+- **Oracle Cloud** (EBS, APEX, ORDS, Database Administration)
+- **Huawei Cloud** (ECS, Storage, Network)
+- **Azure Cloud** (Basic Services)
+- **Linux Administration** (Red Hat, SUSE Linux)
+- **Enterprise Applications** (Oracle EBS, SAP Business One)
+- **Database Management** (Oracle Database, SAP HANA)
+
 
 ## 📜 Certifications  
 - [Python For Everybody (2020)](https://coursera.org/share/210943819eb94fcdf27a21155d825390)  
