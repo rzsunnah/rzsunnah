@@ -20,11 +20,11 @@
 
 ## 🚀 Skills  
 <p align="left">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/5/50/Oracle_logo.svg" alt="Oracle Cloud" width="100"/>
   <img src="https://skillicons.dev/icons?i=azure,linux" alt="Azure, Linux"/>
   <img src="https://www.sap.com/dam/application/shared/logos/sap-logo-svg.svg" alt="SAP S/4HANA" width="100"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/c/cb/SAP_Business_One_logo.png" alt="SAP Business One" width="150"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/06/Huawei_Cloud_logo.png" alt="Huawei Cloud" width="150"/>
+   <img src="https://upload.wikimedia.org/wikipedia/commons/5/50/Oracle_logo.svg" alt="Oracle Cloud" width="100"/>
+  <img src="https://www.pngitem.com/middle/ihJiixb_sap-business-one-logo-png-transparent-png" alt="SAP Business One" width="150"/>
+  <img src="https://logodix.com/logos/325994" alt="Huawei Cloud" width="150"/>
 </p>
 
 
