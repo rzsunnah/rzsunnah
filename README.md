@@ -22,9 +22,10 @@
 <p align="left">
   <img src="https://upload.wikimedia.org/wikipedia/commons/5/50/Oracle_logo.svg" alt="Oracle Cloud" width="100"/>
   <img src="https://skillicons.dev/icons?i=azure,linux" alt="Azure, Linux"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/6/68/SAP_2011_logo.svg" alt="SAP S/4HANA" width="100"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/6/68/SAP_2011_logo.svg" alt="SAP Business One" width="100"/>
+  <img src="https://www.sap.com/dam/application/shared/logos/sap-logo-svg.svg" alt="SAP S/4HANA" width="100"/>
+  <img src="https://www.oyg.com.tr/wp-content/uploads/2021/11/sap-business-one-logo-1.png" alt="SAP Business One" width="150"/>
 </p>
+
 
 
 
