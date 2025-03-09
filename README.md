@@ -17,8 +17,8 @@
 - 📫 How to reach me: [LinkedIn](https://linkedin.com/in/sarker-sunzid-mahmud) | [Email](mailto:sunzid02@gmail.com)  
 
 ## 📊 GitHub Stats  
-<img src="https://github-readme-stats.vercel.app/api?username=sunzid02&show_icons=true&theme=dark" alt="GitHub Stats" />  
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sunzid02&layout=compact&theme=dark" alt="Top Languages" />  
+<img src="https://github-readme-stats.vercel.app/api?username=rzsunnah&show_icons=true&theme=dark" alt="GitHub Stats" />  
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rzsunnah&layout=compact&theme=dark" alt="Top Languages" />  
 
 ## 🚀 Skills  
 <p align="left">
