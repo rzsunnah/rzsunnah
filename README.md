@@ -23,8 +23,10 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/5/50/Oracle_logo.svg" alt="Oracle Cloud" width="100"/>
   <img src="https://skillicons.dev/icons?i=azure,linux" alt="Azure, Linux"/>
   <img src="https://www.sap.com/dam/application/shared/logos/sap-logo-svg.svg" alt="SAP S/4HANA" width="100"/>
-  <img src="https://www.oyg.com.tr/wp-content/uploads/2021/11/sap-business-one-logo-1.png" alt="SAP Business One" width="150"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/cb/SAP_Business_One_logo.png" alt="SAP Business One" width="150"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/06/Huawei_Cloud_logo.png" alt="Huawei Cloud" width="150"/>
 </p>
+
 
 
 
