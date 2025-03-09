@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://github.com/sunzid02">
+  <a href="https://github.com/rzsunnah">
     <img src="https://readme-typing-svg.herokuapp.com?size=24&width=600&lines=Actively+Always+Learning!;Exploring+New+Technologies!" alt="Typing Animation" />
   </a>
 </p>
@@ -9,8 +9,8 @@
 🌟 Welcome to my GitHub profile!  
 
 ## 🚀 About Me  
-- 🎓 Master's student in *Data Science* at *Technical University Dortmund*  
-- 💼 Currently working as a *Software Engineer at K&K*  
+- 🎓 Completed Masters in *Information Communication and Technology* at *Bangladesh University of Professionals*  
+- 💼 Currently working as a *Cloud Architect at Fusion Infotech Ltd.*  
 - 🔭 Previously worked as a *Data Analyst and Software Engineer*  
 - 🌱 Passionate about *Data Science, Machine Learning, Cloud, and Web Technologies*  
 - 💬 Ask me about *Python, SQL, Data Engineering, Web Development, and Cloud Platforms*  
@@ -38,10 +38,9 @@
 - [Python For Everybody (2020)](https://coursera.org/share/210943819eb94fcdf27a21155d825390)  
 - [Capstone: Retrieving, Processing, and Visualizing Data with Python (2020)](https://coursera.org/share/52bf3a8d901f6e93918338a9758658c6)  
 - [AWS Fundamentals: Going Cloud-Native (2020)](https://coursera.org/share/86944a4984ee72321e400f856e0db6a3)  
-- IELTS Certificate (2020)  
 
 ## 🌎 Languages  
-- *German:* Beginner (A2 Level)  
+- *German:* Beginner (A1 Level)  
 - *English:* Fluent (C1 Level)  
 - *Hindi:* Intermediate (B1 Level)  
 - *Bengali:* Native  
