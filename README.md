@@ -12,8 +12,8 @@
 - 🎓 Completed Masters in **Information Communication and Technology** at **Bangladesh University of Professionals**
 - 💼 Currently working as a **Cloud Architect** at **Fusion Infotech Ltd.**
 - 🌱 Passionate about **Cloud, New Technologies**  
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/rubaiya-zahin-sunnah/) | [Email](maito:zahinsunnah@gmail.com)
-
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/rubaiya-zahin-sunnah/) | [Email](mailto:zahinsunnah@gmail.com)
+- 
 ## 📊 GitHub Stats  
 <img src="https://github-readme-stats.vercel.app/api?username=rzsunnah&show_icons=true&theme=dark" alt="GitHub Stats" />  
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rzsunnah&layout=compact&theme=dark" alt="Top Languages" />  
@@ -21,6 +21,10 @@
 ## 🚀 Skills  
 <p align="left">
   <img src="https://skillicons.dev/icons?i=oracle,azure,linux" alt="Skills" />
+</p>
+
+<p align="left">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/5/50/Oracle_logo.svg" alt="Oracle Cloud" width="100" />
 </p>
 
 ### Additional Skills:
