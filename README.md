@@ -10,11 +10,9 @@
 
 ## 🚀 About Me  
 - 🎓 Completed Masters in **Information Communication and Technology** at **Bangladesh University of Professionals**
-- 💼 💼 Currently working as a Cloud Architect at Fusion Infotech Ltd.  
-- 🔭 Previously worked as a **Data Analyst and Software Engineer**  
-- 🌱 Passionate about **Data Science, Machine Learning, Cloud, and Web Technologies**  
-- 💬 Ask me about **Python, SQL, Data Engineering, Web Development, and Cloud Platforms**  
-- 📫 How to reach me: [LinkedIn](https://linkedin.com/in/sarker-sunzid-mahmud) | [Email](mailto:sunzid02@gmail.com)  
+- 💼 Currently working as a **Cloud Architect** at **Fusion Infotech Ltd.**
+- 🌱 Passionate about **Cloud, New Technologies**  
+- 📫 How to reach me: [LinkedIn]([(https://www.linkedin.com/in/rubaiya-zahin-sunnah/)] | [Email](mail:zahinsunnah@gmail.com)
 
 ## 📊 GitHub Stats  
 <img src="https://github-readme-stats.vercel.app/api?username=rzsunnah&show_icons=true&theme=dark" alt="GitHub Stats" />  
@@ -29,10 +27,10 @@
 - [Python For Everybody (2020)](https://coursera.org/share/210943819eb94fcdf27a21155d825390)  
 - [Capstone: Retrieving, Processing, and Visualizing Data with Python (2020)](https://coursera.org/share/52bf3a8d901f6e93918338a9758658c6)  
 - [AWS Fundamentals: Going Cloud-Native (2020)](https://coursera.org/share/86944a4984ee72321e400f856e0db6a3)  
-- IELTS Certificate (2020)  
+ 
 
 ## 🌎 Languages  
-- **German:** Beginner (A2 Level)  
+- **German:** Beginner (A1 Level)  
 - **English:** Fluent (C1 Level)  
 - **Hindi:** Intermediate (B1 Level)  
 - **Bengali:** Native  
