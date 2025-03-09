@@ -17,8 +17,10 @@
 
 📫 Find me: [LinkedIn](https://www.linkedin.com/in/rubaiya-zahin-sunnah/) | [Email](mailto:zahinsunnah@gmail.com)
   
-## 📊 GitHub Stats  
-<img src="https://github-readme-stats.vercel.app/api?username=rzsunnah&show_icons=true&theme=dark" alt="GitHub Stats" />  
+## 🚀Sunnah's GitHub Stats  
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=rzsunnah&show_icons=true&theme=dark" alt="GitHub Stats" />
+</p>
 
 ## 🚀 Skills  
 <p align="left">
