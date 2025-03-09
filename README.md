@@ -20,8 +20,12 @@
 
 ## 🚀 Skills  
 <p align="left">
-   <img src="https://upload.wikimedia.org/wikipedia/commons/5/50/Oracle_logo.svg" alt="Oracle Cloud" width="100" /> <img src="https://skillicons.dev/icons?i=oracle,azure,linux" alt="Skills" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/5/50/Oracle_logo.svg" alt="Oracle Cloud" width="100"/>
+  <img src="https://skillicons.dev/icons?i=azure,linux" alt="Azure, Linux"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/68/SAP_2011_logo.svg" alt="SAP S/4HANA" width="100"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/68/SAP_2011_logo.svg" alt="SAP Business One" width="100"/>
 </p>
+
 
 
 ## 📜 Certifications  
