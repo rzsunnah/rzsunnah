@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/rzsunnah">
-    <img src="https://readme-typing-svg.herokuapp.com?size=24&width=600&lines=Actively+Always+Learning!;Exploring+New+Technologies!" alt="Typing Animation" />
+    <img src="https://readme-typing-svg.herokuapp.com?size=24&width=600&lines=Exploring+New+Technologies!" alt="Typing Animation" />
   </a>
 </p>
 
@@ -17,7 +17,7 @@
 
 📫 Find me: [LinkedIn](https://www.linkedin.com/in/rubaiya-zahin-sunnah/) | [Email](mailto:zahinsunnah@gmail.com)
   
-## 🚀Sunnah's GitHub Stats  
+## 🚀 Sunnah's GitHub Stats  
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=rzsunnah&show_icons=true&theme=dark" alt="GitHub Stats" />
 </p>
