@@ -20,21 +20,17 @@
 
 ## 🚀 Skills  
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=azure,linux" alt="Azure, Linux"/>
+  <img src="https://skillicons.dev/icons?i=azure,linux,aws" alt="Azure, Linux, AWS"/>
   <img src="https://www.sap.com/dam/application/shared/logos/sap-logo-svg.svg" alt="SAP S/4HANA" width="100"/>
-   <img src="https://upload.wikimedia.org/wikipedia/commons/5/50/Oracle_logo.svg" alt="Oracle Cloud" width="100"/>
-  <img src="https://www.pngitem.com/middle/ihJiixb_sap-business-one-logo-png-transparent-png" alt="SAP Business One" width="150"/>
-  <img src="https://logodix.com/logos/325994" alt="Huawei Cloud" width="150"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/5/50/Oracle_logo.svg" alt="Oracle Cloud" width="100"/>
 </p>
 
 
-
-
-
 ## 📜 Certifications  
-- [Python For Everybody (2020)](https://coursera.org/share/210943819eb94fcdf27a21155d825390)  
-- [Capstone: Retrieving, Processing, and Visualizing Data with Python (2020)](https://coursera.org/share/52bf3a8d901f6e93918338a9758658c6)  
-- [AWS Fundamentals: Going Cloud-Native (2020)](https://coursera.org/share/86944a4984ee72321e400f856e0db6a3)  
+- [Oracle Cloud Data Management Certified Foundations Associate (2023)](https://catalog-education.oracle.com/ords/certview/sharebadge?id=3FEC9D17554B9D442076BD3EC044BE6A8547FEFA6B9E84D98DAE9C0E67A1DC73)  
+- [Oracle Cloud Infrastructure Certified Architect Associate (2023)](https://catalog-education.oracle.com/ords/certview/sharebadge?id=333FCA5288A08BF99C079CAECA1A5959994DD40B7548C16E6C388A51CE09B457)  
+- [Oracle Cloud Infrastructure Foundations Certified Associate (2023)]([https://coursera.org/share/86944a4984ee72321e400f856e0db6a3](https://catalog-education.oracle.com/ords/certview/sharebadge?id=5C5F8EBDE58E06C42D519D8B9CF67E815F3864250C1E36D5579B8CF0DF10C127))
+- [Diploma in Graphic Designing: CodersTrust Bangladesh (2020)]
  
 
 ## 🌎 Languages  
