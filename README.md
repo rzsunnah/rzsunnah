@@ -43,5 +43,5 @@
 - **Hindi:** Intermediate (B1 Level)  
 - **Bengali:** Native  
 
-🚀 Let's connect and collaborate on exciting projects!  
+🚀 Let's **connect** and **collaborate** on exciting projects!  
 
